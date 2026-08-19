@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="gPlayBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="gpBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="gp1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00C1FF"/>
+      <stop offset="100%" stop-color="#0072FF"/>
+    </linearGradient>
+    <linearGradient id="gp2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD200"/>
+      <stop offset="100%" stop-color="#FF7A00"/>
+    </linearGradient>
+    <linearGradient id="gp3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF3366"/>
+      <stop offset="100%" stop-color="#BA0040"/>
+    </linearGradient>
+    <linearGradient id="gp4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F076"/>
+      <stop offset="100%" stop-color="#00A843"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Outer Badge Container -->
+  <rect x="5" y="5" width="530" height="150" rx="30" fill="url(#gPlayBg)" stroke="url(#gpBorder)" stroke-width="3"/>
+
+  <!-- Google Play Triangle Logo -->
+  <g transform="translate(45, 32) scale(1.15)">
+    <path d="M12.5 7.2 L55.3 49.9 L12.5 92.7 C10.9 90.9 10 88.5 10 85.5 L10 14.5 C10 11.5 10.9 9 12.5 7.2 Z" fill="url(#gp1)" />
+    <path d="M55.3 49.9 L71.5 33.7 L17.8 3.5 C15.8 2.3 13.9 2.5 12.5 3.3 L55.3 49.9 Z" fill="url(#gp4)" />
+    <path d="M55.3 49.9 L12.5 96.6 C13.9 97.4 15.8 97.6 17.8 96.4 L71.6 66.2 L55.3 49.9 Z" fill="url(#gp3)" />
+    <path d="M71.5 33.7 L81.2 39.2 C85.6 41.7 85.6 48.2 81.2 50.7 L71.6 56.2 L55.3 49.9 L71.5 33.7 Z" fill="url(#gp2)" />
+  </g>
+
+  <!-- Typography -->
+  <text x="175" y="62" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="600" font-size="20" letter-spacing="3" fill="#94a3b8">GOOGLE PLAY'DEN</text>
+  <text x="175" y="112" font-family="'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="44" fill="#ffffff" letter-spacing="1">İNDİRİN</text>
+</svg>
