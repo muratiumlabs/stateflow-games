@@ -1,11 +1,11 @@
-# StateFlow Games
+﻿# StateFlow Games
 
 > StateFlow Games is an independent game development studio creating high-quality, engaging mobile games for Android and web platforms, specializing in construction tycoon simulators, strategic management games, and educational puzzle adventures.
 
 ## Studio Overview
 - **Studio Name**: StateFlow Games
 - **Developer / Publisher**: Muratium Labs
-- **Official Website**: https://muratiumlabs.github.io/stateflow-games/
+- **Official Website**: https://stateflowgames.netlify.app/
 - **Support & Inquiries**: muratiumlabs@gmail.com / stateflowgames@gmail.com
 - **Platforms**: Google Play Store (Android), Web
 
@@ -28,7 +28,8 @@
 - **Drag Code (SürükleKod)**: Visual block-based mobile IDE and development environment tool enabling users to construct algorithms, write logic, and prototype code natively on mobile devices.
 
 ## Essential Documentation & Legal
-- [Unified Privacy Policy](https://muratiumlabs.github.io/stateflow-games/privacy-policy.html): Google Play Store & AdMob compliant privacy disclosures for all StateFlow Games titles.
-- [Terms of Service](https://muratiumlabs.github.io/stateflow-games/terms-of-service.html): Player terms, intellectual property, and license agreements.
-- [User Data Deletion Guide](https://muratiumlabs.github.io/stateflow-games/data-deletion.html): Step-by-step instructions for resetting game data locally or requesting remote deletion.
-- [AdMob app-ads.txt](https://muratiumlabs.github.io/stateflow-games/app-ads.txt): Official IAB Tech Lab authorized digital seller record for Google AdMob publisher verification.
+- [Unified Privacy Policy](https://stateflowgames.netlify.app/privacy-policy.html): Google Play Store & AdMob compliant privacy disclosures for all StateFlow Games titles.
+- [Terms of Service](https://stateflowgames.netlify.app/terms-of-service.html): Player terms, intellectual property, and license agreements.
+- [User Data Deletion Guide](https://stateflowgames.netlify.app/data-deletion.html): Step-by-step instructions for resetting game data locally or requesting remote deletion.
+- [AdMob app-ads.txt](https://stateflowgames.netlify.app/app-ads.txt): Official IAB Tech Lab authorized digital seller record for Google AdMob publisher verification.
+

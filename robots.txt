@@ -1,5 +1,5 @@
-# robots.txt for StateFlow Games Studio & Games Portal
-# Website: https://muratiumlabs.github.io/stateflow-games/
+﻿# robots.txt for StateFlow Games Studio & Games Portal
+# Website: https://stateflowgames.netlify.app/
 
 User-agent: *
 Allow: /
@@ -44,4 +44,5 @@ Allow: /
 # See /llms.txt for machine-readable context of StateFlow Games and its mobile titles.
 
 # Sitemap Location
-Sitemap: https://muratiumlabs.github.io/stateflow-games/sitemap.xml
+Sitemap: https://stateflowgames.netlify.app/sitemap.xml
+
