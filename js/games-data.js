@@ -87,22 +87,22 @@ const STATEFLOW_GAMES = [
   {
     id: "drag-code",
     title: "Drag Code (SürükleKod)",
-    category: "Kodlama & Mantık",
+    category: "Mobil IDE & Geliştirici Aracı",
     status: "soon", // Betada / Yakında
     rating: 5.0,
     reviewsCount: "Kapalı Beta",
     downloads: "Yakında",
     icon: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=200&h=200&q=80",
     banner: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&h=450&q=80",
-    shortDesc: "Sürükle-bırak bloklarıyla algoritma kurmayı ve temel kodlama mantığını öğreten interaktif uygulama.",
-    fullDesc: "Drag Code (SürükleKod), kodlama dünyasına adım atmak isteyen öğrenciler ve meraklılar için tasarlanmış blok tabanlı bir algoritma bulmacasıdır. Komut bloklarını doğru sırayla birleştirerek algoritmik düşünme becerinizi adım adım geliştirin.",
+    shortDesc: "Mobil cihazlar için görsel sürükle-bırak bloklarıyla çalışan yeni nesil mobil kodlama ortamı ve IDE aracı.",
+    fullDesc: "Drag Code (SürükleKod), mobil cihazlarda kod yazmayı, algoritma prototipleri oluşturmayı ve blok tabanlı geliştirme yapmayı sağlayan hafif, güçlü ve interaktif bir mobil IDE geliştirici aracıdır. Karmaşık sözdizimi hatalarına takılmadan mobil ortamda mantıksal akışlar ve çalışan kod blokları üretin.",
     features: [
-      "Görsel Blok Tabanlı Sürükle-Bırak Kodlama Mantığı",
-      "Algoritmik Düşünme ve Mantıksal Problem Çözme",
-      "Döngüler, Koşullar ve Fonksiyon Mantığı Öğretimi",
-      "Eğlenceli ve Aşamalı Bölüm Tasarımları"
+      "Mobil Uyumlu Görsel Blok Tabanlı IDE Arayüzü",
+      "Sürükle-Bırak Mantıksal Kod ve Algoritma Editörü",
+      "Gerçek Zamanlı Kod Derleme ve Test Simülasyonu",
+      "Gelişmiş Değişken, Fonksiyon, Koşul ve Döngü Yönetimi"
     ],
-    tags: ["Kodlama", "Algoritma", "Eğitici", "Blok Kod", "Öğrenme"],
+    tags: ["Mobil IDE", "Geliştirici Aracı", "Kodlama", "Algoritma", "SürükleKod"],
     playStoreUrl: "https://play.google.com/store/apps/details?id=com.muratiumlabs.matematikkantini",
     screenshots: [
       "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80"

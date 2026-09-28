@@ -25,7 +25,7 @@
 ## Other Games by StateFlow Games
 - **Matematik Kantini**: Fast-paced educational math puzzle game for kids and brain-training enthusiasts, designed with school cafeteria mechanics and mental math challenges.
 - **NeuroPlex**: Minimalist spatial logic and brain puzzle training game.
-- **Drag Code**: Visual block programming puzzle game teaching algorithms and sequential logic through interactive mechanics.
+- **Drag Code (SürükleKod)**: Visual block-based mobile IDE and development environment tool enabling users to construct algorithms, write logic, and prototype code natively on mobile devices.
 
 ## Essential Documentation & Legal
 - [Unified Privacy Policy](https://muratiumlabs.github.io/stateflow-games/privacy-policy.html): Google Play Store & AdMob compliant privacy disclosures for all StateFlow Games titles.
