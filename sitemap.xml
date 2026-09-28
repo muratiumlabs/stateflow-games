@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <!-- Home Page / Studio & Games Catalog -->
+  <url>
+    <loc>https://muratiumlabs.github.io/stateflow-games/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Unified Privacy Policy (Google Play & AdMob Compliance) -->
+  <url>
+    <loc>https://muratiumlabs.github.io/stateflow-games/privacy-policy.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Terms of Service -->
+  <url>
+    <loc>https://muratiumlabs.github.io/stateflow-games/terms-of-service.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- User Data Deletion Instructions (Google Play Data Safety) -->
+  <url>
+    <loc>https://muratiumlabs.github.io/stateflow-games/data-deletion.html</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Google AdMob Authorized Digital Sellers (app-ads.txt) -->
+  <url>
+    <loc>https://muratiumlabs.github.io/stateflow-games/app-ads.txt</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- AI / LLM Context Map (llms.txt) -->
+  <url>
+    <loc>https://muratiumlabs.github.io/stateflow-games/llms.txt</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>

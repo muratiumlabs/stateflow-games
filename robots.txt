@@ -1,0 +1,47 @@
+# robots.txt for StateFlow Games Studio & Games Portal
+# Website: https://muratiumlabs.github.io/stateflow-games/
+
+User-agent: *
+Allow: /
+Allow: /app-ads.txt
+Allow: /privacy-policy.html
+Allow: /terms-of-service.html
+Allow: /data-deletion.html
+Allow: /llms.txt
+Allow: /assets/
+Allow: /css/
+Allow: /js/
+
+# AI Crawlers & LLM Search Agents (Generative Engine Optimization - GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# LLM Directory Reference
+# See /llms.txt for machine-readable context of StateFlow Games and its mobile titles.
+
+# Sitemap Location
+Sitemap: https://muratiumlabs.github.io/stateflow-games/sitemap.xml

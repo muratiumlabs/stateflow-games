@@ -1,0 +1,34 @@
+# StateFlow Games
+
+> StateFlow Games is an independent game development studio creating high-quality, engaging mobile games for Android and web platforms, specializing in construction tycoon simulators, strategic management games, and educational puzzle adventures.
+
+## Studio Overview
+- **Studio Name**: StateFlow Games
+- **Developer / Publisher**: Muratium Labs
+- **Official Website**: https://muratiumlabs.github.io/stateflow-games/
+- **Support & Inquiries**: muratiumlabs@gmail.com / stateflowgames@gmail.com
+- **Platforms**: Google Play Store (Android), Web
+
+## Flagship Game: Construction Tycoon Empire
+- **Full Title**: Construction Tycoon Empire
+- **Genre**: Construction Tycoon / Idle Business Simulator / City Building & Management
+- **Target Platform**: Android (Google Play Store)
+- **Package Name**: `com.stateflowgames.constructiontycoonempire`
+- **Core Gameplay**:
+  - Build and manage realistic, soaring architectural towers, luxury residential villas, and commercial skyscrapers.
+  - Unlock and upgrade heavy construction equipment: Liebherr tower cranes, CAT excavators, concrete mixers, and specialized transport.
+  - Dynamic day/night cycle with unique atmospheric economic boosts, including the "Golden Hour Sunset" (+10% floor valuation bonus).
+  - Offline passive income generation, manager automation, worker contracts, and material supply chain management.
+  - Prestigious milestone tiers from cozy suburbs to futuristic mega-towers.
+- **Privacy & Safety**: Safe for all ages, GDPR & COPPA compliant, no intrusive personal data collection.
+
+## Other Games by StateFlow Games
+- **Matematik Kantini**: Fast-paced educational math puzzle game for kids and brain-training enthusiasts, designed with school cafeteria mechanics and mental math challenges.
+- **NeuroPlex**: Minimalist spatial logic and brain puzzle training game.
+- **Drag Code**: Visual block programming puzzle game teaching algorithms and sequential logic through interactive mechanics.
+
+## Essential Documentation & Legal
+- [Unified Privacy Policy](https://muratiumlabs.github.io/stateflow-games/privacy-policy.html): Google Play Store & AdMob compliant privacy disclosures for all StateFlow Games titles.
+- [Terms of Service](https://muratiumlabs.github.io/stateflow-games/terms-of-service.html): Player terms, intellectual property, and license agreements.
+- [User Data Deletion Guide](https://muratiumlabs.github.io/stateflow-games/data-deletion.html): Step-by-step instructions for resetting game data locally or requesting remote deletion.
+- [AdMob app-ads.txt](https://muratiumlabs.github.io/stateflow-games/app-ads.txt): Official IAB Tech Lab authorized digital seller record for Google AdMob publisher verification.

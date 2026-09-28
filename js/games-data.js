@@ -4,6 +4,34 @@
 
 const STATEFLOW_GAMES = [
   {
+    id: "construction-tycoon-empire",
+    title: "Construction Tycoon Empire",
+    category: "Tycoon & Strateji",
+    status: "live", // Google Play'de Yeni
+    rating: 5.0,
+    reviewsCount: "Google Play",
+    downloads: "Yeni Çıkan",
+    icon: "assets/construction-tycoon-empire-icon.png",
+    banner: "assets/construction-tycoon-empire-banner.jpg",
+    shortDesc: "Gökdelenler dik, inşaat holdingini kur ve yönet! Canlı demir/beton borsası ve metropol projeleriyle dünyanın 1 numaralı inşaat imparatoru olun.",
+    fullDesc: "Construction Tycoon Empire; sıfırdan zirveye tırmandığınız, dev gökdelenler inşa ettiğiniz ve küresel malzeme borsasını yönettiğiniz kapsamlı bir inşaat tycoon ve holding yönetim oyunudur. Standart, ticari ve depreme dayanıklı sismik kuleler inşa edin; canlı borsada demir ve beton alım satımı yaparak kâr marjınızı artırın; biten projelerinizi peşin satarak veya pasif kira geliri elde ederek Forbes küresel milyarderler listesinde #1 olun!",
+    features: [
+      "🏢 50+ Katlı Devasa Gökdelen ve Rezidans İnşaatı",
+      "📈 Canlı Dinamik Malzeme Borsası (B420C Çelik, Hazır Beton ve Sismik Sınıf Malzemeler)",
+      "💰 Kira & Peşin Satış Yönetimi (Uzun Vadeli Kira Portföyü veya Anında Nakit Akışı)",
+      "🏛️ Şehir Harikaları ve Belediye İhaleleri (İstanbul, New York vb.)",
+      "⚙️ Şirket ve Ekipman Geliştirmeleri (Hızlı Kule Vinçleri, Prefabrik Kalıplar, BIM Yazılımları)",
+      "⚡ Çevrimdışı (Offline) Pasif Kira Geliri ve Kredi Sistemi"
+    ],
+    tags: ["Tycoon", "İnşaat", "Gökdelen", "Strateji", "Simülasyon", "Borsa"],
+    playStoreUrl: "https://play.google.com/store/apps/details?id=com.stateflowgames.constructiontycoonempire",
+    screenshots: [
+      "assets/construction-tycoon-empire-banner.jpg",
+      "assets/construction-tycoon-empire-ss1.jpg",
+      "assets/construction-tycoon-empire-ss2.jpg"
+    ]
+  },
+  {
     id: "matematik-kantini",
     title: "Matematik Kantini",
     category: "Eğitici & Matematik",
@@ -85,7 +113,7 @@ const STATEFLOW_GAMES = [
 // Stüdyo & İletişim Bilgileri
 const STUDIO_CONFIG = {
   studioName: "StateFlow Games",
-  tagline: "Eğitici, Zeka Geliştirici ve Mantık Odaklı Mobil Deneyimler",
+  tagline: "Strateji, Tycoon, Eğitici ve Mantık Odaklı Mobil Deneyimler",
   developerEmail: "stateflowgames@gmail.com",
-  playStoreDeveloperUrl: "https://play.google.com/store/apps/details?id=com.muratiumlabs.matematikkantini"
+  playStoreDeveloperUrl: "https://play.google.com/store/apps/details?id=com.stateflowgames.constructiontycoonempire"
 };
